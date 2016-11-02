@@ -1,1 +1,1 @@
-# This is als javascriptCode  related files
+# This is all javascriptCode  related files
